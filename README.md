@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lara</h1>
-<h3 align="center">A computer science student studying at the University of the Philippines</h3>
+<h1 align="center">𝙷𝚒, 𝙸'𝚖 𝙻𝚊𝚛𝚊!</h1>
+<h3 align="center">A computer science student from the University of the Philippines Los Baños</h3>
 
-📫 Reach me @ **lndy@up.edu.ph**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
